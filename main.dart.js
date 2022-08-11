@@ -39719,7 +39719,7 @@ return P.x($async$d_,r)},
 nF(){var s=0,r=P.y(t.z),q=this
 var $async$nF=P.u(function(a,b){if(a===1)return P.v(b,r)
 while(true)switch(s){case 0:s=2
-return P.G(q.e0("http://127.0.0.1:3000").bx(0,new Z.UF(q),t.P),$async$nF)
+return P.G(q.e0("https://binjafloraapp.herokuapp.com").bx(0,new Z.UF(q),t.P),$async$nF)
 case 2:q.K()
 return P.w(null,r)}})
 return P.x($async$nF,r)},
@@ -83061,7 +83061,7 @@ $.aq7=null
 $.aqv=null
 $.arp=function(){var s=t.N
 return P.aj(["Content-Type","application/json"],s,s)}()
-$.fL="http://127.0.0.1:3000"
+$.fL="https://binjafloraapp.herokuapp.com"
 $.uV=null
 $.nv=H.bQ("prefs")
 $.aG0=null
